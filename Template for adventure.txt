@@ -1,0 +1,21 @@
+<html>
+<link rel="stylesheet" href='https://fonts.googleapis.com/css?family=Bungee'>
+<link rel="stylesheet" href="Styles.css">
+
+<body>
+	<div class="grid-container">
+		<div class="header">
+			<h1>You wake up in</h1>
+		</div>
+		<div class="text">
+			<p>  </p>
+		</div>
+	<div class="choices">
+		<a href="XXX.html"> XXX.</a>
+		<br></br>
+		<a href="XXX.html"> XXX.</a>
+		<br></br>
+	  <a href="XXX.html">XXX.</a>
+	</div>
+</body>
+</html>

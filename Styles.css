@@ -6,20 +6,18 @@ body {
 h1 {
   color: #F5F5F5;
   font-family: 'Bungee';font-size: 44px;
-  text-align: : center;
 }
 
 
 p {
   color: #F5F5F5;
-  font-family: 'Bungee';font-size: 22px;
-  text-align: : center;
+  font-family: 'Bungee';font-size: 25px;
 }
 
 
 a {
   color: #C0C0C0;
-  font-family: 'Bungee';font-size: 22px;
+  font-family: 'Bungee';font-size: 25px;
 }
 
 .grid-container {
@@ -36,12 +34,17 @@ a {
 
 
 .header {
+  border: 5px solid;
+  border-color: #C0C0C0;
   grid-column-start: 2;
   grid-column-end: 3;
 }
 
 
 .text {
+  border: 5px solid;
+  border-top: 0px;
+  border-color: #C0C0C0;
   grid-column-start: 2;
   grid-column-end: 3;
   grid-row-start: 3;
@@ -50,6 +53,9 @@ a {
 
 
 .choices {
+  border: 5px solid;
+  border-top: 0px;
+  border-color: #C0C0C0;
   grid-row-start: 6;
   grid-column-start: 2
 }

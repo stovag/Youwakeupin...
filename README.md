@@ -1,2 +1,2 @@
 # Youwakeupin...
-*****PLACEHOLDER*****
+"You wake up in...: is a project for the course of informatics in humanistic sciences, made by Evangelos Stogiannos.
