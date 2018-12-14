@@ -4,17 +4,52 @@ body {
 
 
 h1 {
-  color: #ececec;
+  color: #F5F5F5;
   font-family: 'Bungee';font-size: 44px;
+  text-align: : center;
 }
 
 
 p {
-  color: #ececec;
+  color: #F5F5F5;
   font-family: 'Bungee';font-size: 22px;
+  text-align: : center;
 }
 
 
-a{
+a {
+  color: #C0C0C0;
+  font-family: 'Bungee';font-size: 22px;
+}
 
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  background-color: inherit;
+}
+
+
+.grid-container > div {
+  text-align: center;
+  background-color: inherit;
+}
+
+
+.header {
+  grid-column-start: 2;
+  grid-column-end: 3;
+}
+
+
+.text {
+  grid-column-start: 2;
+  grid-column-end: 3;
+  grid-row-start: 3;
+  grid-row-end: 6;
+}
+
+
+.choices {
+  grid-row-start: 6;
+  grid-column-start: 2
 }
