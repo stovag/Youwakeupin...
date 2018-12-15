@@ -16,9 +16,15 @@ p {
 
 
 a {
-  color: #C0C0C0;
+  color: #F5F5F5;
   font-family: 'Bungee';font-size: 25px;
 }
+
+
+a:hover{
+  color: #C0C0C0;
+}
+
 
 .grid-container {
   display: grid;
