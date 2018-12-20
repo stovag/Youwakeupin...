@@ -1,2 +1,2 @@
 # Youwakeupin...
-"You wake up in...: is a project for the course of informatics in humanistic sciences, made by Evangelos Stogiannos.
+"You wake up in...: is a project for the course of informatics in humanistic sciences, made by Evangelos Stogiannos, student of the Ionian University, Department of Informatics.
